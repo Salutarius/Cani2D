@@ -29,13 +29,12 @@ Few notes about the Blender exporter:
 * One NLA track is one animation. Actions are not animations.
 
 ### TODO
-
+* Documentation & examples.
 * Python exporter is a mess.
 * Way to swap parts of the model (for facial expressions and stuff).
 * Multiple animations at the same time.
 * Improving(?) and documenting the model .json format.
 * Performance improvements.
 * Getting rid of for ... in loops.
-* Documentation & examples.
 * A lot of other stuff.
 
